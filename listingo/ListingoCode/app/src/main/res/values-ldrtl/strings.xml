@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_by_teacher">Search By Teacher</string>
+    <string name="search_by_date_time">Search By Date Time</string>
+    <string name="gender">Gender:</string>
+    <string name="language">Language:</string>
+</resources>

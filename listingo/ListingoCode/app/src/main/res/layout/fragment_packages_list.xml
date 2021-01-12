@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cooltechworks.views.shimmer.ShimmerRecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list"
+    android:name="com.tregix.serviceprovider.fragments.UpdatePackageFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:background="@color/background"
+    app:shimmer_demo_child_count="5"
+    app:shimmer_demo_layout="@layout/demo_category_item"
+    tools:listitem="@layout/fragment_provider" />
+
